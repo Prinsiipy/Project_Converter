@@ -4,7 +4,7 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.boxlayout import BoxLayout
 from kivy.core.window import Window
 
-Window.size = (250, 200)
+Window.size = (450, 300)
 Window.clearcolor = (76 / 34, 6 / 255, 3 / 255, 1)
 Window.title = "Конвертер"
 
